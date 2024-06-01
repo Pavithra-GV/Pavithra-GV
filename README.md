@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pavithra G V
-- 👀 I’m interested in anything related to technology... but maily data science
+- 👀 I’m interested in anything related to technology... but mainly data science
 - 🌱 I’m currently learning data structures 
 - 💞️ I’m looking to collaborate on projects related to data science
 - 📫 you can reach me on linked in - https://www.linkedin.com/in/pavithragv/
