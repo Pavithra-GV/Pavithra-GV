@@ -1,12 +1,23 @@
-- 👋 Hi, I’m Pavithra G V
+<img align="right" src="https://visitcount.itsvg.in/api?id=Pavithra-GV&label=Profile%20Views&color=0&icon=3&pretty=true" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pavithra+G+V!;" />
+</h1>
+
 - 👀 I’m interested in anything related to technology... but mainly data science
 - 🌱 I’m currently learning data structures 
 - 💞️ I’m looking to collaborate on projects related to data science
-- 📫 you can reach me on linked in - https://www.linkedin.com/in/pavithragv/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Apple’s iPhone has more computing power than NASA’s computers during the moon landing.
-
-<!---
-Pavithra-GV/Pavithra-GV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me :
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pavithragv/)
+- ⚡ Fun fact: I can dance 💃🏽💃🏽
+---
+### I code in <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b2/512.gif" alt="🎲" width="20" height="20"> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
+---
+### IDE and Tools I Use <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="20" height="20">
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=g7UKWvv49CoI&format=png&color=000000"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=110560&format=png&color=000000"/> 
+---
+![GitHub stats:](https://github-readme-stats.vercel.app/api?username=Pavithra-GV&theme=radical&show_icons=true&&hide=issues,contribs)
+![Top Languages used:](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithra-GV&layout=compact) <br/>
+---
+## Github Contribution <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="20" height="20">
