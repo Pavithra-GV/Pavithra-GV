@@ -20,5 +20,5 @@
 ![GitHub stats:](https://github-readme-stats.vercel.app/api?username=Pavithra-GV&theme=radical&show_icons=true&&hide=issues,contribs)
 ![Top Languages used:](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithra-GV&layout=compact) <br/>
 ---
-## Github Contribution <img src="https://img.icons8.com/?size=100&id=58pGdHAS6Va3&format=png&color=000000" alt="✊🏼" width="20" height="20">
+## Github Contribution <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="20" height="20">
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pavithra-GV&bg_color=021117&color=75e6da&line=189ab4&point=cfeaec&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
