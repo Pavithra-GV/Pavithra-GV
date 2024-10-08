@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in anything related to technology
 - 🌱 I’m currently learning **data structures** and **swift**
-- 💞️ I’m looking to collaborate on projects related to data science or software development
+- 💞️ I’m looking to collaborate on projects related to **data science** or **software development**
 - 😄 Pronouns: she/her
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pavithragv/)
