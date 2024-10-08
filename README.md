@@ -4,7 +4,7 @@
 </h1>
 
 - 👀 I’m interested in anything related to technology... but mainly data science
-- 🌱 I’m currently learning **data structures** and **machine learnling**
+- 🌱 I’m currently learning **data structures** and **swift**
 - 💞️ I’m looking to collaborate on projects related to data science
 - 😄 Pronouns: she/her
 - 📫 How to reach me :
