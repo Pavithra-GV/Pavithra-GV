@@ -3,9 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pavithra+G+V!;" />
 </h1>
 
-- 👀 I’m interested in anything related to technology... but mainly data science
+- 👀 I’m interested in anything related to technology
 - 🌱 I’m currently learning **data structures** and **swift**
-- 💞️ I’m looking to collaborate on projects related to data science
+- 💞️ I’m looking to collaborate on projects related to data science or software development
 - 😄 Pronouns: she/her
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pavithragv/)
